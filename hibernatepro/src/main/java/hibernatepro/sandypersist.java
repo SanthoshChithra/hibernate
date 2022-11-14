@@ -1,6 +1,8 @@
 package hibernatepro;
 
-public class sandypersist //table name
+//for your understanding 14/11/
+public class sandypersist 
+//table name
 {
 	int id;
 	String name;
